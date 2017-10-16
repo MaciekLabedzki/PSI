@@ -1,0 +1,4 @@
+﻿  main.cpp
+m:\pobrane\psi\neuralnet_1\randomtrainingdata\randomtrainingdata\main.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  randomTrainingData.vcxproj -> M:\pobrane\psi\NeuralNet_1\randomTrainingData\Debug\randomTrainingData.exe
+  randomTrainingData.vcxproj -> M:\pobrane\psi\NeuralNet_1\randomTrainingData\Debug\randomTrainingData.pdb (Partial PDB)
