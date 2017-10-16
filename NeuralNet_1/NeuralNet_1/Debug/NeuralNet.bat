@@ -1,0 +1,1 @@
+NeuralNet_1.exe >> trainingOut.txt
