@@ -9,6 +9,7 @@ public:
 	int label;
 
 	Point();
+	Point(float x, float y);
 	void out();
 };
 

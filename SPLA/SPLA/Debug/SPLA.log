@@ -1,3 +1,7 @@
-﻿  Point.cpp
+﻿  Perceptron.cpp
+m:\pobrane\psi\neuralnet_1\spla\spla\perceptron.cpp(15): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+m:\pobrane\psi\neuralnet_1\spla\spla\perceptron.cpp(30): warning C4018: '<': signed/unsigned mismatch
+m:\pobrane\psi\neuralnet_1\spla\spla\perceptron.cpp(34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+m:\pobrane\psi\neuralnet_1\spla\spla\perceptron.cpp(41): warning C4018: '<': signed/unsigned mismatch
   SPLA.vcxproj -> M:\pobrane\psi\NeuralNet_1\SPLA\Debug\SPLA.exe
   SPLA.vcxproj -> M:\pobrane\psi\NeuralNet_1\SPLA\Debug\SPLA.pdb (Partial PDB)
