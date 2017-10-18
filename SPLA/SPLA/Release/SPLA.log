@@ -1,0 +1,11 @@
+﻿  main.cpp
+main.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Perceptron.cpp
+Perceptron.cpp(24): warning C4018: '<': signed/unsigned mismatch
+Perceptron.cpp(27): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Point.cpp
+  Generating code
+  All 104 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SPLA.vcxproj -> M:\pobrane\psi\NeuralNet_1\SPLA\Release\SPLA.exe
+  SPLA.vcxproj -> M:\pobrane\psi\NeuralNet_1\SPLA\Release\SPLA.pdb (Full PDB)
