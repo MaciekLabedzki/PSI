@@ -1,0 +1,6 @@
+﻿  Perceptron.cpp
+m:\pobrane\studia\psi\neuralnet_1\literki\literki\perceptron.cpp(11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+m:\pobrane\studia\psi\neuralnet_1\literki\literki\perceptron.cpp(25): warning C4018: '<': signed/unsigned mismatch
+m:\pobrane\studia\psi\neuralnet_1\literki\literki\perceptron.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  Literki.vcxproj -> M:\pobrane\Studia\psi\NeuralNet_1\Literki\Debug\Literki.exe
+  Literki.vcxproj -> M:\pobrane\Studia\psi\NeuralNet_1\Literki\Debug\Literki.pdb (Partial PDB)
