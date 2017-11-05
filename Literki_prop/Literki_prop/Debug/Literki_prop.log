@@ -1,0 +1,5 @@
+﻿  main.cpp
+m:\pobrane\studia\psi\neuralnet_1\literki_prop\literki_prop\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+m:\pobrane\studia\psi\neuralnet_1\literki_prop\literki_prop\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  Literki_prop.vcxproj -> M:\pobrane\Studia\psi\NeuralNet_1\Literki_prop\Debug\Literki_prop.exe
+  Literki_prop.vcxproj -> M:\pobrane\Studia\psi\NeuralNet_1\Literki_prop\Debug\Literki_prop.pdb (Partial PDB)
