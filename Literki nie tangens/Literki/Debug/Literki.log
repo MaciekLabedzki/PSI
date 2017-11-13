@@ -1,0 +1,5 @@
+﻿  main.cpp
+m:\pobrane\studia\psi\neuralnet_1\literki nie tangens\literki\main.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+m:\pobrane\studia\psi\neuralnet_1\literki nie tangens\literki\main.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  Literki.vcxproj -> M:\pobrane\Studia\psi\NeuralNet_1\Literki nie tangens\Debug\Literki.exe
+  Literki.vcxproj -> M:\pobrane\Studia\psi\NeuralNet_1\Literki nie tangens\Debug\Literki.pdb (Partial PDB)
